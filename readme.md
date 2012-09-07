@@ -4,7 +4,7 @@ A socket transport for winston .
 
 For use with a unix socket server
 ## Installation
-
+  npm install winston-socket
 
 ## Usage
 ``` js

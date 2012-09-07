@@ -2,7 +2,7 @@
   "name": "winston-socket",
   "description": "A socket transport for winston",
   "version": "0.0.1",
-  "author": "Bryan Paluch <bryanpaluch@gsocket.com>",
+  "author": "Bryan Paluch <bryanpaluch@gmail.com>",
   "contributors": [],
   "keywords": [
     "logging",
@@ -12,15 +12,15 @@
     "socket"
   ],
   "dependencies": {},
-  "devDependencies": {
-    "winston": "0.4.x",
-    "vows": "0.5.x"
-  },
   "main": "./lib/winston-socket",
-  "scripts": {
-  },
+  "scripts": {},
   "engines": {
     "node": ">= 0.8.0"
   },
-  "optionalDependencies": {}
+  "optionalDependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bryanpaluch/winston-socket.git"
+  }
 }
