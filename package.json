@@ -1,7 +1,7 @@
 {
   "name": "winston-socket",
   "description": "A socket transport for winston",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Bryan Paluch <bryanpaluch@gmail.com>",
   "contributors": [],
   "keywords": [
@@ -15,7 +15,7 @@
   "main": "./lib/winston-socket",
   "scripts": {},
   "engines": {
-    "node": ">= 0.8.0"
+    "node": ">= 0.6.0"
   },
   "optionalDependencies": {},
   "devDependencies": {},
